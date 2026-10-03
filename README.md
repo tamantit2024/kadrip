@@ -1,0 +1,2 @@
+# kadrip
+kadri portfolio glm
